@@ -4,16 +4,16 @@ This is a meta repository allowing to keep track of issues and wishes concerning
 ## key to issue labels
 
 ### servers
+* server - sulcorebutia:  
+  * Hosting by Hetzner (CX41 plan)
+  * IP 116.203.61.64
+  * Running Ubuntu 18.04 since 2019-03-17
+  * Servicing `<doc.semantic-mediawiki.org>` and `<sandbox.semantic-mediawiki.org>`
 * server - stetsonia:  
   * Hosting by Hetzner (CX30 plan)
   * IP 78.47.118.255
   * Running Ubuntu 16.04 since 2016-12-09
-  * Servicing `<www.semantic-mediawiki.org>` and `<doc.semantic-mediawiki.org>`
-* server - phalaris: 
-  * Hosting by IN-BERLIN (Vserver plan)
-  * IP 217.197.83.171
-  * Running Debian 9 since 2018-02-06
-  * Servicing `<sandbox.semantic-mediawiki.org>`
+  * Servicing `<www.semantic-mediawiki.org>`
 * server - hades:  
   * Hosting by Hetzner (VQ19 plan)
   * IP 78.47.80.197
