@@ -41,10 +41,10 @@ This is a meta repository allowing to keep track of issues and wishes concerning
 * smw.org - doc: `<doc.semantic-mediawiki.org>` (99074)
 * smw.org - sandbox: `<sandbox.semantic-mediawiki.org>` (99071)
 * smw.org - www: `<www.semantic-mediawiki.org>` (99072)
-* osda.org: `<www.opensemanticdata.org>` (99075)
-* korrekt.org: `<www.korrekt.org>` (99073)
-* swb.org: `<www.sementic-web-book.org>` (99076)
-* swg.de: `<www.semantic-web-grundlagen.de>` (99077)
+* osda.org - www: `<www.opensemanticdata.org>` (99075)
+* korrekt.org - www: `<www.korrekt.org>` (99073)
+* swb.org - www: `<www.sementic-web-book.org>` (99076)
+* swg.de - www: `<www.semantic-web-grundlagen.de>` (99077)
  
 ### work
 * update: minor work like updating PHP, MySQL for the OS currently installed on the server, withing the branch of MediaWiki and extensions
