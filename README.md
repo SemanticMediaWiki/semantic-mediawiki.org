@@ -17,7 +17,7 @@ This is a meta repository allowing to keep track of issues and wishes concerning
     * `<www.sementic-web-book.org>`
     * `<www.semantic-web-grundlagen.de>`
 * server - stetsonia:  
-  * Hosting by Hetzner (CX30 plan) since 2015-12-11
+  * Hosting by Hetzner (CX30 plan) from 2015-12-11 until 2019-10-18
   * IP 78.47.118.255
   * Running Ubuntu 16.04 since 2016-12-09
   * Servicing websites:
